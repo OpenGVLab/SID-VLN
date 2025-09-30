@@ -1,7 +1,7 @@
 # Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale
 
-[![arxiv](https://img.shields.io/badge/arXiv_2507.05240-red?logo=arxiv)](http://arxiv.org/abs/2507.05240)
-[![hf](https://img.shields.io/badge/Hugging_Face-FF9D00?logo=huggingface&logoColor=white)](https://huggingface.co/papers/2507.05240/)
+[![arxiv](https://img.shields.io/badge/arXiv_2509.24910-red?logo=arxiv)](http://arxiv.org/abs/2509.24910)
+[![hf](https://img.shields.io/badge/Hugging_Face-FF9D00?logo=huggingface&logoColor=white)](https://huggingface.co/papers/2509.24910)
 
 #### [Songze Li](https://scholar.google.com/citations?user=8rBMUD4AAAAJ), [Zun Wang](https://zunwang1.github.io/), [Gengze Zhou](https://gengzezhou.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Xiangyu Zeng](https://lanxingxuan.github.io/), [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Limin Wang](https://wanglimin.github.io/), [Qi Wu](http://www.qi-wu.me/), [Yi Wang](https://shepnerd.github.io/)
 
@@ -155,12 +155,12 @@ datasets/
 If you find our work useful in your research, please consider starring 🌟 this repo and cite the following paper:
 
 ```bibtex
-@article{zun2024srdf,
-    author = { Li, Songze and Wang, Zun and Zhou, Gengze and Li, Jialu and Zeng, Xiangyu and Wang, Limin and Qiao, Yu and Wu, Qi and Bansal, Mohit and Wang, Yi},
+@article{li2025sid,
+    author = {Li, Songze and Wang, Zun and Zhou, Gengze and Li, Jialu and Zeng, Xiangyu and Wang, Limin and Qiao, Yu and Wu, Qi and Bansal, Mohit and Wang, Yi},
     title  = {Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale},
 	journal   = {arxiv},
 	year      = {2025},
-	url       = {https://arxiv.org/abs/2412.08467}
+	url       = {https://arxiv.org/abs/2509.24910}
 }
 ```
 
