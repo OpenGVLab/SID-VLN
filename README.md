@@ -3,7 +3,7 @@
 [![arxiv](https://img.shields.io/badge/arXiv_2509.24910-red?logo=arxiv)](http://arxiv.org/abs/2509.24910)
 [![hf](https://img.shields.io/badge/Hugging_Face-FF9D00?logo=huggingface&logoColor=white)](https://huggingface.co/papers/2509.24910)
 
-#### [Songze Li](https://scholar.google.com/citations?user=8rBMUD4AAAAJ), [Zun Wang](https://zunwang1.github.io/), [Gengze Zhou](https://gengzezhou.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Xiangyu Zeng](https://lanxingxuan.github.io/), [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Limin Wang](https://wanglimin.github.io/), [Qi Wu](http://www.qi-wu.me/), [Yi Wang](https://shepnerd.github.io/)
+#### [Songze Li](https://scholar.google.com/citations?user=8rBMUD4AAAAJ), [Zun Wang](https://zunwang1.github.io/), [Gengze Zhou](https://gengzezhou.github.io/), [Jialu Li](https://jialuli-luka.github.io/), [Xiangyu Zeng](https://lanxingxuan.github.io/), [Limin Wang](https://wanglimin.github.io/), [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ), [Qi Wu](http://www.qi-wu.me/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Yi Wang](https://shepnerd.github.io/)
 
 ![SID](SID.png)
 
@@ -165,5 +165,6 @@ If you find our work useful in your research, please consider starring 🌟 this
 ```
 
 ## 👏 Acknowledgements
+
 
 We thank the developers of [DUET](https://github.com/cshizhe/VLN-DUET), [SRDF](https://github.com/wz0919/VLN-SRDF), [InternVL](https://github.com/OpenGVLab/InternVL) for their public code release.
