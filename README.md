@@ -13,6 +13,8 @@ Goal-oriented language-guided navigation requires robust exploration capabilitie
 
 ## 📢 Update
 
+[2025-09-30] We realease the [paper](http://arxiv.org/abs/2509.24910) for SID-VLN.
+
 [2025-09-22] We realease the code and data for SID-VLN.
 
 ## 🛠 Getting Started
@@ -168,3 +170,4 @@ If you find our work useful in your research, please consider starring 🌟 this
 
 
 We thank the developers of [DUET](https://github.com/cshizhe/VLN-DUET), [SRDF](https://github.com/wz0919/VLN-SRDF), [InternVL](https://github.com/OpenGVLab/InternVL) for their public code release.
+
