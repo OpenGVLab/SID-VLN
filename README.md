@@ -157,12 +157,11 @@ datasets/
 If you find our work useful in your research, please consider starring 🌟 this repo and cite the following paper:
 
 ```bibtex
-@article{li2025sid,
-    author = {Li, Songze and Wang, Zun and Zhou, Gengze and Li, Jialu and Zeng, Xiangyu and Wang, Limin and Qiao, Yu and Wu, Qi and Bansal, Mohit and Wang, Yi},
-    title  = {Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale},
-	journal   = {arxiv},
-	year      = {2025},
-	url       = {https://arxiv.org/abs/2509.24910}
+@article{li2025learning,
+  title={Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale},
+  author={Li, Songze and Wang, Zun and Zhou, Gengze and Li, Jialu and Zeng, Xiangyu and Wang, Limin and Qiao, Yu and Wu, Qi and Bansal, Mohit and Wang, Yi},
+  journal={arXiv preprint arXiv:2509.24910},
+  year={2025}
 }
 ```
 
@@ -170,4 +169,5 @@ If you find our work useful in your research, please consider starring 🌟 this
 
 
 We thank the developers of [DUET](https://github.com/cshizhe/VLN-DUET), [SRDF](https://github.com/wz0919/VLN-SRDF), [InternVL](https://github.com/OpenGVLab/InternVL) for their public code release.
+
 
