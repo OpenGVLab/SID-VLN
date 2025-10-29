@@ -144,7 +144,9 @@ datasets/
    We use one NVIDIA A800 GPU for finetuning our agent on downstream VLN tasks. Concrete config is presented in the scripts.
 
    ```bash
-   bash run_lang_goal.sh
+   cd mapnav
+   bash scripts/run_reverie.sh
+   bash scripts/run_soon.sh
    ```
 
 ## 🙋‍♂️ Questions or Issues
@@ -169,5 +171,6 @@ If you find our work useful in your research, please consider starring 🌟 this
 
 
 We thank the developers of [DUET](https://github.com/cshizhe/VLN-DUET), [SRDF](https://github.com/wz0919/VLN-SRDF), [InternVL](https://github.com/OpenGVLab/InternVL) for their public code release.
+
 
 
