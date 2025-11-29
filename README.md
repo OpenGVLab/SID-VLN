@@ -21,9 +21,9 @@ Goal-oriented language-guided navigation requires robust exploration capabilitie
 
 We test under the following environment:
 
-* Python 3.8.10
-* Pytorch 2.0.0
-* CUDA Version 11.7
+* Python 3.9
+* Pytorch 2.1.2
+* CUDA Version 12.4
 
 1. **Install Matterport3D simulators:** follow detailed instructions [here](https://github.com/peteanderson80/Matterport3DSimulator). We use the latest version instead of v0.1. Here is simplified instructions:
 
@@ -39,7 +39,7 @@ We test under the following environment:
    After successful installation, run:
 
    ```bash
-   cp your_path/Matterport3DSimulator/build/MatterSim.cpython-38-x86_64-linux-gnu.so your_conda_path/envs/sidvln/lib/python3.8/MatterSim.cpython-38-x86_64-linux-gnu.so
+   cp your_path/Matterport3DSimulator/build/MatterSim.cpython-39-x86_64-linux-gnu.so your_conda_path/envs/sidvln/lib/python3.9/MatterSim.cpython-39-x86_64-linux-gnu.so
    export PYTHONPATH=your_path/SIDVLN/mapnav:$PYTHONPATH
    export PYTHONPATH=your_path/Matterport3DSimulator/build:$PYTHONPATH
    ```
@@ -47,7 +47,7 @@ We test under the following environment:
 2. **Install requirements:**
 
    ```bash
-   conda create --name sidvln python=3.8.10
+   conda create --name sidvln python=3.9
    conda activate sidvln
    cd SID-VLN
    pip install -r requirements.txt
