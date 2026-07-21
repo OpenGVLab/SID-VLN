@@ -1,4 +1,4 @@
-# Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale
+# [ECCV 2026] Learning Goal-Oriented Language-Guided Navigation with Self-Improving Demonstrations at Scale
 
 [![arxiv](https://img.shields.io/badge/arXiv_2509.24910-red?logo=arxiv)](http://arxiv.org/abs/2509.24910)
 [![hf](https://img.shields.io/badge/Hugging_Face-FF9D00?logo=huggingface&logoColor=white)](https://huggingface.co/papers/2509.24910)
