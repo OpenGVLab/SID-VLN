@@ -13,6 +13,8 @@ Goal-oriented language-guided navigation requires robust exploration capabilitie
 
 ## 📢 Update
 
+[2026-06-18] SID-VLN has been provisionally accepted to ECCV 2026!
+
 [2025-09-30] We realease the [paper](http://arxiv.org/abs/2509.24910) for SID-VLN.
 
 [2025-09-22] We realease the code and data for SID-VLN.
